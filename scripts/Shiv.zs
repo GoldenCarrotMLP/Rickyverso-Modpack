@@ -60,8 +60,8 @@ events.onPlayerTick(function(event as crafttweaker.event.PlayerTickEvent) {
 <simpledifficulty:wool_boots>.displayName = "Wool Boots";
 
 
-<notreepunching:rock/basalt>.displayName = "Basalt Rock";
-<notreepunching:cobblestone/basalt>.displayName = "Basalt Cobblestone";
+
+
 
 <betternether:bone_block>.displayName = "Smooth Bone Block";
 
@@ -356,14 +356,12 @@ recipes.removeByRecipeName("grapplemod:throwupgradeitem");
 recipes.removeByRecipeName("grapplemod:limitsupgradeitem");
 recipes.removeByRecipeName("grapplemod:longfallboots");
 
-recipes.removeByRecipeName("notreepunching:tools/fire_starter");
 recipes.remove(<minecraft:sandstone>);
 recipes.remove(<minecraft:red_sandstone>);
 
 recipes.remove(<charm:crate:*>);
 recipes.removeByRecipeName("charm:ender_pearl");
 
-furnace.remove(<notreepunching:ceramic_small_vessel>);
 
 furnace.remove(<minecraft:gold_nugget>);
 furnace.remove(<minecraft:iron_nugget>);
@@ -1360,13 +1358,6 @@ recipes.addShaped("lolarecipe61",<bountifulbaubles:spectralsilt>,
   [<bountifulbaubles:flare_red>,<bountifulbaubles:disintegrationtablet>,<bountifulbaubles:flare_red>],
   [<bountifulbaubles:flare_red>,<bountifulbaubles:flare_red>,<bountifulbaubles:flare_red>]]);
   
-recipes.addShaped("lolarecipe62",<minecraft:sandstone>,
- [[<notreepunching:rock/sandstone>,<notreepunching:rock/sandstone>],
-  [<notreepunching:rock/sandstone>,<notreepunching:rock/sandstone>]]);
-  
-recipes.addShaped("lolarecipe63",<minecraft:red_sandstone>,
- [[<notreepunching:rock/red_sandstone>,<notreepunching:rock/red_sandstone>],
-  [<notreepunching:rock/red_sandstone>,<notreepunching:rock/red_sandstone>]]);
   
 recipes.addShaped("lolarecipe64",<minecraft:saddle>,
  [[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],
@@ -1785,7 +1776,7 @@ recipes.addShaped("lolasaddle1",<lycanitesmobs:saddle_beast>,
   [<craftablechainmail:chainmail_plate>,<minecraft:saddle>,<craftablechainmail:chainmail_plate>]]);
 
 recipes.addShaped("lolasaddle2",<lycanitesmobs:saddle_insect>,
- [[<notreepunching:grass_string>,null,null],
+ [[null,null],
   [<iceandfire:myrmex_desert_chitin>|<iceandfire:myrmex_jungle_chitin>,<iceandfire:myrmex_desert_chitin>|<iceandfire:myrmex_jungle_chitin>,<iceandfire:myrmex_desert_chitin>|<iceandfire:myrmex_jungle_chitin>],
   [<inspirations:rope:2>,<minecraft:saddle>,<inspirations:rope:2>]]);
 

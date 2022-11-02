@@ -151,8 +151,8 @@
 		
         "wiki":
         {
-            "text" : "RLCraft Wiki",
-            "hoverText" : "§nRLCraft Wiki",
+            "text" : "Mamaguevo Wiki",
+            "hoverText" : "§nMamaguevo Wiki",
             "posX" : 5,
             "posY" : 16,
             "color" : 9561599,
@@ -160,14 +160,14 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://rlcraft.fandom.com/wiki/RLCraft_Wiki"
+                "link" : "https://en.wiktionary.org/wiki/mamaguevo"
             }
         },
 		
         "reddit":
         {
-            "text" : "RLCraft Reddit",
-            "hoverText" : "§nRLCraft Reddit",
+            "text" : "Random waifu",
+            "hoverText" : "§nRandom waifu",
             "posX" : 5,
             "posY" : 27,
             "color" : 9561599,
@@ -175,14 +175,14 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://www.reddit.com/r/RLCraft"
+                "link" : "https://www.gelbooru.com/index.php?page=post&s=random"
             }
         },
 		
 		"discord":
         {
-            "text" : "Shivaxi's Discord",
-            "hoverText" : "§nShivaxi's Discord",
+            "text" : "XXXRIKY Discord",
+            "hoverText" : "§nXXXRIKY Discord",
             "posX" : 5,
             "posY" : 49,
             "color" : 9561599,
@@ -196,8 +196,8 @@
 		
 		"discord 2":
         {
-            "text" : "RLCraft Speedrun",
-            "hoverText" : "§nRLCraft Speedrun",
+            "text" : "Perros con corbata",
+            "hoverText" : "§nPerros con corbata",
             "posX" : 5,
             "posY" : 38,
             "color" : 9561599,
@@ -205,7 +205,7 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://speedrun.com/RLCraft"
+                "link" : "https://discord.gg/mErQ2WqTRD"
             }
         },
         
@@ -219,7 +219,7 @@
            "alignment":"bottom_left"
         },
 		"rl_craft":{
-			"text":"RLCraft v2.9.1c (By Shivaxi)",
+			"text":"Rickyverso v2.9.1c (By cvaz, Rscharbay, Thanoslim, retsej)",
 			"posX":55,
 			"posY":-38,
 			"color" : 9561599,
