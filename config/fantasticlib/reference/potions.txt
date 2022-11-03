@@ -142,7 +142,6 @@ lycanitesmobs:swiftswimming
 bountifulbaubles:sinful
 charm:coffee
 charm:ender_sight
-firstaid:morphine
 xat:sparkling
 xat:glittering
 xat:glowing

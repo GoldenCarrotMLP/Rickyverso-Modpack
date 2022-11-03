@@ -1054,7 +1054,6 @@ traverse:red_rock_cobblestone_slab
 traverse:red_rock_cobblestone_stairs
 familiarfauna:bug_net
 familiarfauna:bug_habitat
-firstaid:morphine
 foodexpansion:spidersoup
 foodexpansion:netherwartsoup
 foodexpansion:melonsalad

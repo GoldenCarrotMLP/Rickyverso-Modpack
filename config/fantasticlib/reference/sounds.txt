@@ -2101,7 +2101,6 @@ charm:homing
 charm:whispers
 charm:above_stronghold
 charm:ender_resonance
-firstaid:debuff.heartbeat
 playerbosses:boss.hurt
 playerbosses:boss.ambient
 playerbosses:boss.death

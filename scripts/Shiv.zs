@@ -236,8 +236,6 @@ recipes.remove(<qualitytools:emerald_amulet>);
 recipes.remove(<antiqueatlas:empty_antique_atlas>);
 recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warp_stone>);
-recipes.remove(<firstaid:plaster>);
-recipes.remove(<firstaid:bandage>);
 recipes.remove(<roughtweaks:salve>);
 recipes.remove(<roughtweaks:plaster>);
 recipes.remove(<roughtweaks:bandage>);
@@ -379,7 +377,6 @@ furnace.addRecipe(<minecraft:hardened_clay>, <minecraft:clay>, 99999);
 
 recipes.remove(<wolfarmor:chainmail_wolf_armor>);
 
-recipes.remove(<firstaid:bandage>);
 
 recipes.remove(<minecraft:saddle>);
 
@@ -1068,10 +1065,7 @@ recipes.addShapeless("lolarecipe8",<minecraft:string>*4,[<minecraft:wool:*>]);
 //  [<toughasnails:ice_cube>,<toughasnails:ice_cube>,<toughasnails:ice_cube>],
 //  [<toughasnails:ice_cube>,<toughasnails:ice_cube>,<toughasnails:ice_cube>]]);
 
-recipes.addShapeless("lolarecipe10",<firstaid:plaster>,[<ore:string>,<minecraft:paper>]);
 
-recipes.addShaped("lolarecipe11",<firstaid:bandage>*2,
- [[<ore:string>,<minecraft:wool:*>,<ore:string>]]);
 
 recipes.addShaped("lolarecipe12",<mujmajnkraftsbettersurvival:itemwooddagger>,
  [[null,<minecraft:planks:*>],

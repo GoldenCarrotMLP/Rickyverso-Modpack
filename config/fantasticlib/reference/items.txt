@@ -3110,9 +3110,6 @@ contenttweaker:steel_nugget
 contenttweaker:example_item
 contenttweaker:axe_core
 wearablebackpacks:backpack
-firstaid:bandage
-firstaid:plaster
-firstaid:morphine
 ichunutil:compact_porkchop
 grapplemod:grapplinghook
 grapplemod:block_grapple_modifier
