@@ -196,6 +196,7 @@ foodVenisoncooked
 listAllvenisonraw
 listAllvenisoncooked
 ingotSilver
+ingotAlumite
 nuggetSilver
 gemSapphire
 boneWither

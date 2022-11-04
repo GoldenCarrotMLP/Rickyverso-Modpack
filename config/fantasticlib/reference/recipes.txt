@@ -1117,13 +1117,16 @@ iceandfire:silver_pile
 iceandfire:silver_pickaxe
 iceandfire:silver_leggings
 iceandfire:silver_ingot_to_nuggets
+plustic:alumite_ingot_to_nuggets
 iceandfire:silver_ingot
+plustic:alumite_ingot
 iceandfire:silver_hoe
 iceandfire:silver_helmet
 iceandfire:silver_chestplate
 iceandfire:silver_boots
 iceandfire:silver_block_to_ingots
 iceandfire:silver_block
+plustic:alumite_block
 iceandfire:silver_axe
 iceandfire:sickly_dragonmeal
 iceandfire:sheep_leggings

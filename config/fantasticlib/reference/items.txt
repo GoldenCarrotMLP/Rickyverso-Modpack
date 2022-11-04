@@ -1354,6 +1354,7 @@ iceandfire:bestiary
 iceandfire:manuscript
 iceandfire:sapphire_gem
 iceandfire:silver_ingot
+plustic:alumite_ingot
 iceandfire:silver_nugget
 iceandfire:armor_silver_metal_helmet
 iceandfire:armor_silver_metal_chestplate
